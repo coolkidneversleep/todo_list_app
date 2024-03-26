@@ -22,7 +22,6 @@ dependencies:
   hookified_infinite_scroll_pagination: ^0.1.0
   hooks_riverpod: ^2.3.8
   mockito: ^5.4.4
-  http: ^1.2.1
 
 dev_dependencies:
   flutter_test:
