@@ -1,16 +1,14 @@
 # todo_list_app
 
-A new Flutter project.
+A todo list Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Download project folder
+2. Run flutter pub get in the terminal, or click Get Packages in pubspec.yaml on VS Code
+3. Open device or simulator device
+4. Run flutter run
 
-A few resources to get you started if this is your first Flutter project:
+## Unit Testing 
+Run flutter test test/api_service_test.dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
